@@ -5,7 +5,7 @@ DU Bootcamp week 1 homework - code refactor.
 
 The purpose of this project is to refactor the Horiseon marketing agency's existing code base and make it more accessibile. Throughout this code refactor I've replaced the majority of the divs with semantic HTML elements, added alt attributes to all of the image files, and reduced redundant lines of code in the CSS file. The result is a page that looks and functions the exact same, but is more accessible to individuals with disabilities and easier to read and maintain for future developers.
 
-This exercise helped me learn how to use semantic HTML elements and helped me a lot with CSS selectors and sepcificity.
+This exercise helped me learn how to use semantic HTML elements and helped me a lot with CSS selectors and specificity.
 
 
 ## Installation
@@ -51,4 +51,4 @@ SOFTWARE.
 - When viewing the source code for this application, you should find semantic HTML tags throughout the index.html file.
 - The CSS file should be consolidated and organized in a logical manner that is easy to follow.
 - All images in the HTML file should have an alt tag.
-- All links in the naviagtion bar should function properly and point to IDs within the page.
+- All links in the navigation bar should function properly and point to IDs within the page.
